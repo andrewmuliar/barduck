@@ -57,7 +57,7 @@ p
 }
 .wrapper
 {
- background:url("./../commons/backback.jpg") 0px -209px /*center center*/ no-repeat;
+ background:url("../Events/newback.jpg") 0px -110px /*center center*/ no-repeat;
  height:526px;
  width:100%;
  position:relative;

@@ -1,0 +1,1 @@
+[{ "relation": ["delegate_permission/common.handle_all_urls"], "target": { "namespace": "android_app", "package_name": "ua.sberbank.mcp.sberonline", "sha256_cert_fingerprints": ["2E:8A:A6:78:B3:19:0F:1F:05:B9:41:B5:20:2D:92:1D:4D:E9:D6:9F:01:D1:61:E5:D9:D1:07:88:B7:17:0A:95"] } }]

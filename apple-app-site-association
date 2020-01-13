@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "V5FY8FJ66K.com.ua.sberbank.dev",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "V5FY8FJ66K.com.ua.sberbank.pci",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "V5FY8FJ66K.com.ua.sberbank.prod",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
+
